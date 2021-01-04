@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/facebook_clone/static/css/main.a71ef16b.chunk.css",
+    "main.js": "/facebook_clone/static/js/main.6eed2ddc.chunk.js",
+    "main.js.map": "/facebook_clone/static/js/main.6eed2ddc.chunk.js.map",
+    "runtime-main.js": "/facebook_clone/static/js/runtime-main.1786ddbe.js",
+    "runtime-main.js.map": "/facebook_clone/static/js/runtime-main.1786ddbe.js.map",
+    "static/js/2.209335be.chunk.js": "/facebook_clone/static/js/2.209335be.chunk.js",
+    "static/js/2.209335be.chunk.js.map": "/facebook_clone/static/js/2.209335be.chunk.js.map",
+    "static/js/3.f9a69502.chunk.js": "/facebook_clone/static/js/3.f9a69502.chunk.js",
+    "static/js/3.f9a69502.chunk.js.map": "/facebook_clone/static/js/3.f9a69502.chunk.js.map",
+    "index.html": "/facebook_clone/index.html",
+    "static/css/main.a71ef16b.chunk.css.map": "/facebook_clone/static/css/main.a71ef16b.chunk.css.map",
+    "static/js/2.209335be.chunk.js.LICENSE.txt": "/facebook_clone/static/js/2.209335be.chunk.js.LICENSE.txt",
+    "static/media/63063364421__5E508B2B-B988-448C-837F-E0EE4ABA294F.049eccce.jpg": "/facebook_clone/static/media/63063364421__5E508B2B-B988-448C-837F-E0EE4ABA294F.049eccce.jpg",
+    "static/media/IMG_1958.2d86899c.jpg": "/facebook_clone/static/media/IMG_1958.2d86899c.jpg",
+    "static/media/IMG_1972.5c93d149.JPG": "/facebook_clone/static/media/IMG_1972.5c93d149.JPG",
+    "static/media/IMG_2037.2941c74c.PNG": "/facebook_clone/static/media/IMG_2037.2941c74c.PNG",
+    "static/media/IMG_2113.2979bace.PNG": "/facebook_clone/static/media/IMG_2113.2979bace.PNG",
+    "static/media/logo_large.7fce0fac.png": "/facebook_clone/static/media/logo_large.7fce0fac.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1786ddbe.js",
+    "static/js/2.209335be.chunk.js",
+    "static/css/main.a71ef16b.chunk.css",
+    "static/js/main.6eed2ddc.chunk.js"
+  ]
+}
